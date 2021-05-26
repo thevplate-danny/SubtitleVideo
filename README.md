@@ -78,9 +78,10 @@ const result = await subtitileVideo.subtitle_overlay(inputVideoFile,srtFile,outp
 
 ## Example 
 ```bash
+$ npm install
 $ node example.js
 ```
-> https://locahost:777 
+> https://locahost:7777 
 자막 생성 버튼을 누르면 Textarea 입력되어있는 자막 포맷에 맞춰 자막을 생성한 후 생성된 비디오파이롤 Redirect 됩니다.
 
 문의 Vplate. Danny
