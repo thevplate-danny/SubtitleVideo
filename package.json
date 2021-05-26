@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "ffmpeg-on-progress": "^1.0.0",
+    "fluent-ffmpeg": "^2.1.2"
+  }
+}
